@@ -1,5 +1,5 @@
 # Youtube alive
-## search for videos from the old, more wholesome youtube, before 2016
+## search for videos from the old, more wholesome youtube, before 2016.  And watch them embedded in this webapp
 
 - follow the tutorial here https://developers.google.com/youtube/v3/getting-started
 - set your environment variable:
